@@ -1,3 +1,13 @@
+When publishing your results using our tissue optics app, please cite:
+
+Nogueira, Marcelo Saito, et al. "User-friendly graphical user interface for simulating tissue optical properties and fluence rates: improving students learning in tissue optics." Proceedings of SPIE. Optical Interactions with Tissue and Cells XXXI. Vol. 11238.  International Society for Optics and Photonics, 2020.
+
+Nogueira, Marcelo S., et al. "Method of continuous improvement of multidisciplinary programs and outreach activities." Education and Training in Optics and Photonics. Optical Society of America, 2019.
+
+Nogueira, Marcelo Saito, et al. "Teaching light-tissue interactions: using technology for education." Proceedings of SPIE. Optical Interactions with Tissue and Cells XXX. Vol. 10876. International Society for Optics and Photonics, 2019.
+
+
+
 MATLAB Compiler
 
 1. Prerequisites for Deployment 
